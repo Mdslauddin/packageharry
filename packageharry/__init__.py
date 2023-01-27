@@ -4,3 +4,7 @@ def func(number):
   
     return number
 
+
+def good():
+    return print("Hello")
+
